@@ -9,7 +9,7 @@ class Person:
 
 
 print(Person.is_adult(1))
-print(Person.is_adult())
-
+print(Person.is_adult(20))
+print(Person.is_adult(7))
 
 
